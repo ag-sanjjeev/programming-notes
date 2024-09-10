@@ -5,7 +5,7 @@ A comprehensive collection of documentation, references, and important notes on 
 ## &#9776; CONTENTS 
 1. [HTML](https://github.com/ag-sanjjeev/HTML-Notes),
 2. [CSS](https://github.com/ag-sanjjeev/CSS-Notes),
-3. [JavaScript](#-javascript-notes),
+3. [JavaScript](https://github.com/ag-sanjjeev/JavaScript-Notes),
 4. [PHP](#-php-notes),
 5. [MySQL](https://github.com/ag-sanjjeev/mysql-notes),
 6. [Bootstrap](#-bootstrap-notes),

@@ -8,7 +8,7 @@ A comprehensive collection of documentation, references, and important notes on 
 3. [JavaScript](https://github.com/ag-sanjjeev/JavaScript-Notes),
 4. [PHP](#-php-notes),
 5. [MySQL](https://github.com/ag-sanjjeev/mysql-notes),
-6. [Bootstrap](#-bootstrap-notes),
+6. [Bootstrap](https://github.com/ag-sanjjeev/Bootstrap-Notes),
 7. [JQuery](https://github.com/ag-sanjjeev/JQuery-Notes),
 8. [Laravel](#-laravel-notes),
 9. [Git](#-git-notes)
